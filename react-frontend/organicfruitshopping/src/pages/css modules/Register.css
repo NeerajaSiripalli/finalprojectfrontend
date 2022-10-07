@@ -1,0 +1,102 @@
+body{
+    background: #f4f9f900; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7); /* Chrome 10-25, Safari 5.1-6 */
+    background: white; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+    
+    .form{
+    
+    background-color: rgb(224 196 196 / 58%);
+    border-radius: 10px;
+    width: 490px;
+    margin: 0rem 0rem 1rem 22rem;
+    padding: 20px;
+     height: 350px; 
+     position: relative;
+     top: 8rem;
+    }
+    
+    .form-body{
+    text-align: center;
+    padding: 20px 10px;
+    }
+    
+    .form__label{
+        padding: 15px;
+        color: #501563;
+        font-weight: 500;
+    }
+    .footer{
+        padding:1rem;
+        
+    }
+
+    .backButton {
+    position: relative;
+    right: 32rem;
+    bottom: 13rem;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    }
+    .errorMessage{
+        color: red;
+        font-weight: 500;
+        font-size: 13px;
+        margin-left: 6.2rem;
+    }
+    .btn{
+        color: white;
+        background-color: #501563;
+        border: 0rem;
+        font-weight: bold;
+        width: 4rem;
+        height: 1.5rem;
+            }
+    .logintitle{
+        background-color: #501563;
+        color: white;
+    height: 35px;
+    width: 201px;
+    position: relative;
+    left:9rem;
+    }
+    .Footer{
+        background-color: #ac4040;
+        height: 80px;
+        position: relative;
+        text-align: right;
+        color:white;
+      }
+     .Headerone{
+        background-color: #ac4040;
+        height: 60px;
+        position: relative;
+        text-align: right;
+        color:white; 
+     } 
+    .products{
+        background-color:white;
+          position: relative;
+    width: 10px;
+    height:50px;
+    }
+    .button{
+        background-color: #501563;
+    height: 50px;
+    width: 250px;
+    position: relative;
+    left: 32rem;
+    top: 12rem;
+    }
+    
+    .form__label{
+    width: 40%;
+    }
+    
+    .form_input{
+    width: 60%;
+    }
+    .title_logo{
+        height:50px;
+    }
