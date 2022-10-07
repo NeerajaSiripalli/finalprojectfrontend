@@ -1,0 +1,27 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    background-color: #ac4040;
+    padding: 5px 20px;
+    color:white;
+    height:50px;
+  }
+  .cart{
+    background-color: white;
+  }
+  .product-item {
+    
+    background-color: white;
+  }
+  .Footer{
+    background-color: #ac4040;
+    height: 60px;
+    position: relative;
+    top: 10rem;
+    text-align: right;
+    color:white;
+  }
